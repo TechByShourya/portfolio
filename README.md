@@ -1,2 +1,2 @@
 # portfolio
-https://shouryagoyal123456.github.io/portfolio/
+https://techbyshourya.github.io/portfolio/
